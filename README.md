@@ -24,3 +24,16 @@ A frontend **Spotify Clone** built using **HTML**, **CSS**, and **JavaScript**, 
 
 ## 📂 Folder Structure
 
+
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Vishalkondi/Spotify-_clone.git
+cd spotify-clone
+
+
