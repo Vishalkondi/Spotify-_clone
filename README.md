@@ -38,7 +38,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/spotify-clone.git
+https://github.com/Vishalkondi/Spotify-_clone.git
 cd spotify-clone
 Open index.html in your browser.
 
@@ -54,6 +54,7 @@ JavaScript (ES6+)
 Fonts & Icons (e.g., Font Awesome, Google Fonts)
 
 📸 Screenshot
+ ##![Uploading Screenshot (61).png…]()
 
 Screenshot from the app replicating the Spotify UI with playlists, player bar, and album cover.
 
