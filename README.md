@@ -1,7 +1,8 @@
 🎵 Spotify Clone 🎧
 A frontend Spotify Clone built using HTML, CSS, and JavaScript, replicating the UI/UX of Spotify’s web app. It features a stylish layout with playlists, album art, a music player bar, and interactive elements.
 
-![Uploading Screenshot (61).png…]()
+![Screenshot (61)](https://github.com/user-attachments/assets/e185318d-e0fd-4259-a1ff-0cbb1944a485)
+
 
 🌐 Live Demo
 Coming soon...
